@@ -24,6 +24,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #dependency injection
+  get_it: ^7.2.0
+
   #UI
   responsive_builder: ^0.4.1
 
